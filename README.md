@@ -1,7 +1,7 @@
 # Terraform
 # Prerequisite
 Install Terraform based on your OS by following terraform documentation.
-Install aws cli using aws documentation.
+Install AWS CLI using aws documentation.
 Create a aws account if you do nat have one.
 You need to create a IAM user in your aws account and configure it on your computer using aws CLI
 Installing aws CLI on MacOS:
