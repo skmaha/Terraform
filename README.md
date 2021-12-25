@@ -4,7 +4,7 @@
 - Install AWS CLI using aws documentation.
 - Create a aws account if you do nat have one.
 - You need to create a IAM user in your aws account and configure it on your computer using AWS CLI
-- Installing aws CLI on MacOS:
+- Installing aws CLI on MacOS: (https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 - 1. curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg" 
 - 2. sudo installer -pkg AWSCLIV2.pkg -target /
 - 3. which aws    and aws --version
