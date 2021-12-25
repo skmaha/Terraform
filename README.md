@@ -1,5 +1,5 @@
 # Terraform
-#Prerequisite
+# Prerequisite
 Install Terraform based on your OS by following terraform documentation.
 Install aws cli using aws documentation.
 Create a aws account if you do nat have one.
