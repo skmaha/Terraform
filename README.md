@@ -8,9 +8,11 @@
 - 1. curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg" 
 - 2. sudo installer -pkg AWSCLIV2.pkg -target /
 - 3. which aws    and aws --version
-- IAM Configuration on computer using AWS CLI
-- aws configure
--  1. It will ask you Access key ID:, Secret access key: and Default Region Name: (Provide all these details using your aws dashboard)
+- IAM Configuration on computer using AWS CLI run below command (Provide all these details using your aws dashboard).
+- aws configure 
+-  1. Access key ID:
+-  2. Secret access key: 
+-  3. Default Region Name:
 - We are good to continue with our practice.
 - Clone the repo and run:
 -  1. terraform init
